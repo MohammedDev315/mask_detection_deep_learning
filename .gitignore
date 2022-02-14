@@ -1,2 +1,4 @@
 *.doc
-new_file
+new_file_name_to_delete
+venv
+dataset
